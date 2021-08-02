@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Me llamo jose luis aqui veras algunos de mis trabajo que he realizado durante los años que llevo de trabajando de front-end.
+
+
 <!--
 **josecondori-ai/josecondori-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
