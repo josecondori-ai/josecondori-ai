@@ -6,7 +6,7 @@
 
 💬 Si tienes consultas sobre mis proyectos escribeme.
 
-###Mis Hobbies
+### Mis Hobbies
 :camera: Fotografia
 :coffee: Bebedor de cafe 
 :closed_book: Lector
