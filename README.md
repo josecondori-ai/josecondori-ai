@@ -20,4 +20,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://cafecito.app/jlcondori"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://cafecito.app/jlcondori" /></a></p><br><br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=josecondori-ai&label=Profile%20views&color=0e75b6&style=flat" alt="josecondori-ai" /> </p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josecondori-ai&show_icons=true&locale=en&layout=compact" alt="josecondori-ai" /></p>
