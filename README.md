@@ -1,4 +1,3 @@
-<img src="[https://jlcondori.com/wp-content/uploads/2024/01/imagennnn.gif]"/>
 ![imagennnn](https://github.com/josecondori-ai/josecondori-ai/assets/62406594/da73fa85-8d5d-4b25-8016-19e10a922610)
 
 <h1 align="center">Hi 👋, I'm Jose Luis</h1>
