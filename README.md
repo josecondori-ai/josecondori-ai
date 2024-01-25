@@ -1,4 +1,4 @@
-<img src="[https://jlcondori.com/wp-content/uploads/2022/10/imagengithub.png](https://media.licdn.com/dms/image/D4D22AQFJ52Ftd8D1mQ/feedshare-shrink_2048_1536/0/1701173372220?e=1704326400&v=beta&t=z6KO_IrP_e9aOoGGQhceB_7T2aaH33B8IQpYX4RPhkg)"/>
+<img src="[https://jlcondori.com/wp-content/uploads/2024/01/imagennnn.gif]"/>
 <h1 align="center">Hi 👋, I'm Jose Luis</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
