@@ -35,7 +35,7 @@ Soy un desarrollador con más de 10 años de experiencia en el rubro, habiendo t
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luis-condori-93649225/)
 - [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dev.joseluis/)
-- [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tu-usuario)
+- [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dev.joseluis)
 
 
 ¡Gracias por visitar mi perfil de GitHub! No dudes en contactarme si quieres colaborar en algún proyecto o simplemente para charlar sobre tecnología.
