@@ -14,7 +14,7 @@ Soy un desarrollador con más de 10 años de experiencia en el rubro, habiendo t
 - 🎬 Me gusta ver series, anime y soy un gran aficionado del cine.
 - 👨‍🏫 Soy profesor en la UTN, donde imparto cursos de Full Stack.
 - 📝 En mi página web, comparto artículos y contenido sobre programación.
-- - [![Website](https://img.shields.io/badge/-Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://www.tu-pagina-web.com](https://jlcondori.com/)
+- [![Website](https://img.shields.io/badge/-Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://www.tu-pagina-web.com](https://jlcondori.com/)
 
 
 ## 🛠️ Tecnologías y Herramientas
@@ -37,13 +37,6 @@ Soy un desarrollador con más de 10 años de experiencia en el rubro, habiendo t
 - [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tu-usuario)
 - [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tu-usuario)
 
-## 📊 GitHub Stats
-
-![Tu Nombre's GitHub stats](https://github-readme-stats.vercel.app/api?josecondori-ai&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?josecondori-ai&layout=compact&theme=radical)
-
----
 
 ¡Gracias por visitar mi perfil de GitHub! No dudes en contactarme si quieres colaborar en algún proyecto o simplemente para charlar sobre tecnología.
 
