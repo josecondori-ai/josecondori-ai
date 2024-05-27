@@ -26,7 +26,7 @@ Soy un desarrollador con más de 10 años de experiencia en el rubro, habiendo t
 | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) | ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white) | | ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) |
 | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) | | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) |
 | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | | ![Travis CI](https://img.shields.io/badge/-Travis%20CI-3EAAAF?style=flat&logo=travis-ci&logoColor=white) |
-| ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white) | | | ![CircleCI](https://img.shields.io/badge/-Circle
+| ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white) | | | 
 
 
 ## 🌐 Encuéntrame en
