@@ -1,4 +1,4 @@
-![imagennnn](https://github.com/josecondori-ai/josecondori-ai/assets/62406594/da73fa85-8d5d-4b25-8016-19e10a922610)
+![20240526_223211 (1)](https://github.com/josecondori-ai/josecondori-ai/assets/62406594/507e3c6d-de86-4398-a5bb-6f7f2ded1626)
 
 # ¡Hola! Soy Jose Luis 👋
 
