@@ -39,9 +39,9 @@ Soy un desarrollador con más de 10 años de experiencia en el rubro, habiendo t
 
 ## 📊 GitHub Stats
 
-![Tu Nombre's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Tu Nombre's GitHub stats](https://github-readme-stats.vercel.app/api?josecondori-ai&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?josecondori-ai&layout=compact&theme=radical)
 
 ---
 
