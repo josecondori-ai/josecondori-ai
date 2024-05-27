@@ -1,12 +1,12 @@
 ![imagennnn](https://github.com/josecondori-ai/josecondori-ai/assets/62406594/da73fa85-8d5d-4b25-8016-19e10a922610)
 
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Jose Luis 👋
 
 Soy un desarrollador con más de 10 años de experiencia en el rubro, habiendo trabajado en distintas empresas nacionales e internacionales. Tengo un profundo conocimiento tanto en tecnologías de front-end como de back-end. Aquí te dejo un resumen de mi perfil y las tecnologías que manejo.
 
 ## 🚀 Sobre mí
 
-- 🔭 Actualmente trabajando en [Nombre de la Empresa o Proyecto].
+- 🔭 Actualmente trabajando en Freelancer.
 - 🌱 Siempre aprendiendo nuevas tecnologías y mejorando mis habilidades.
 - 👯 Buscando colaborar en proyectos innovadores y desafiantes.
 - ⚡ Apasionado por el desarrollo de software y la tecnología.
@@ -14,6 +14,8 @@ Soy un desarrollador con más de 10 años de experiencia en el rubro, habiendo t
 - 🎬 Me gusta ver series, anime y soy un gran aficionado del cine.
 - 👨‍🏫 Soy profesor en la UTN, donde imparto cursos de Full Stack.
 - 📝 En mi página web, comparto artículos y contenido sobre programación.
+- - [![Website](https://img.shields.io/badge/-Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://www.tu-pagina-web.com](https://jlcondori.com/)
+
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -32,11 +34,8 @@ Soy un desarrollador con más de 10 años de experiencia en el rubro, habiendo t
 ## 🌐 Encuéntrame en
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tu-usuario)
 - [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tu-usuario)
 - [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tu-usuario)
-- [![Website](https://img.shields.io/badge/-Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://www.tu-pagina-web.com)
 
 ## 📊 GitHub Stats
 
