@@ -14,7 +14,9 @@ Soy un desarrollador con más de 10 años de experiencia en el rubro, habiendo t
 - 🎬 Me gusta ver series, anime y soy un gran aficionado del cine.
 - 👨‍🏫 Soy profesor en la UTN, donde imparto cursos de Full Stack.
 - 📝 En mi página web, comparto artículos y contenido sobre programación.
-- [![Website](https://img.shields.io/badge/-Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://www.tu-pagina-web.com](https://jlcondori.com/)
+- [![Website](https://img.shields.io/badge/-Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://jlcondori.com/)
+- [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tu-usuario)
+
 
 
 ## 🛠️ Tecnologías y Herramientas
