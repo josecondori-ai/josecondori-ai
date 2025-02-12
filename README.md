@@ -41,7 +41,7 @@ Soy un desarrollador con más de 10 años de experiencia en el rubro, habiendo t
 ¡Gracias por visitar mi perfil de GitHub! No dudes en contactarme si quieres colaborar en algún proyecto o simplemente para charlar sobre tecnología.
 
 <h3 align="left">Support:</h3>
-<p><a href="https://cafecito.app/jlcondori"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://cafecito.app/jlcondori" /></a></p><br><br>
+<p><a href="https://cafecito.app/jlcondori" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://cafecito.app/jlcondori" /></a></p><br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josecondori-ai&label=Profile%20views&color=0e75b6&style=flat" alt="josecondori-ai" /> </p>
 
